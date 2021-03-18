@@ -1,0 +1,128 @@
+{
+ "menu": [
+    {
+     "id": "1",
+     "name": "诗词",
+     "icon": "el-icon-document",
+     "path": "/poetry"
+    },
+    {
+     "id": "2",
+     "name": "朝代",
+     "icon": "el-icon-menu",
+     "path": "/dynasties"
+    }
+ ],
+ "poetry": [
+  {
+    "id": "1",
+    "content": "江雨霏霏江草齐，六朝如梦鸟空啼",
+    "dynastiesId": "1",
+    "dynasties": "唐",
+    "author": "韦庄"
+  },
+  {
+    "id": "2",
+    "content": "孤帆远影碧空尽，唯见长江天际流。",
+    "dynastiesId": "1",
+    "dynasties": "唐",
+    "author": "李白"
+  },
+  {
+    "id": "3",
+    "content": "酒意诗情谁与共？泪融残粉花钿重",
+    "dynastiesId": "3",
+    "dynasties": "宋",
+    "author": "李清照"
+  },
+  {
+    "id": "4",
+    "content": "夕阳西下，断肠人在天涯",
+    "dynastiesId": "2",
+    "dynasties": "元",
+    "author": "马致远"
+  },
+  {
+    "id": "5",
+    "content": "独抱浓愁无好梦，夜阑犹剪灯花弄",
+    "dynastiesId": "3",
+    "dynasties": "宋",
+    "author": "李清照"
+  },
+  {
+    "id": "6",
+    "content": "床前明月光，疑是地上霜",
+    "dynastiesId": "1",
+    "dynasties": "唐",
+    "author": "李白"
+  },
+  {
+    "id": "7",
+    "content": "明月几时有，把酒问青天",
+    "dynastiesId": "3",
+    "dynasties": "宋",
+    "author": "苏轼"
+  },
+  {
+    "id": "8",
+    "content": "风急天高猿啸哀，渚清沙白鸟飞回",
+    "dynastiesId": "1",
+    "dynasties": "唐",
+    "author": "杜甫"
+  },
+  {
+    "id": "9",
+    "content": "千里莺啼绿映红，水村山郭酒旗风",
+    "dynastiesId": "1",
+    "dynasties": "唐",
+    "author": "杜牧"
+  },
+  {
+    "id": "10",
+    "content": "人生自古谁无死，留取丹心照汗青",
+    "dynastiesId": "3",
+    "dynasties": "宋",
+    "author": "文天祥"
+  },
+  {
+    "id": "11",
+    "content": "百岁光阴如梦蝶，重回首往事堪嗟。",
+    "dynastiesId": "2",
+    "dynasties": "元",
+    "author": "马致远"
+  },
+  {
+    "id": "12",
+    "content": "海上生明月，天涯共此时",
+    "dynastiesId": "1",
+    "dynasties": "唐",
+    "author": "张九龄"
+  },
+  {
+    "id": "13",
+    "content": "峰峦如聚，波涛如怒，山河表里潼关路",
+    "dynastiesId": "2",
+    "dynasties": "元",
+    "author": "张养浩"
+  },
+  {
+    "id": "14",
+    "content": "西陆蝉声唱，南冠客思深",
+    "dynastiesId": "1",
+    "dynasties": "唐",
+    "author": "骆宾王"
+  },
+  {
+    "id": "15",
+    "content": "旧时王谢堂前燕，飞入寻常百姓家",
+    "dynastiesId": "1",
+    "dynasties": "唐",
+    "author": "刘禹锡"
+  }
+],
+ "dynasties": [
+   {"id": "1", "name": "唐"},
+   {"id": "2", "name": "元"},
+   {"id": "3", "name": "宋"}
+ ]
+}
